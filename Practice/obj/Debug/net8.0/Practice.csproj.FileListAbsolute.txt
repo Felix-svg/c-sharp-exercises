@@ -1,0 +1,15 @@
+D:\Development\Projects\c-sharp-exercises\Practice\bin\Debug\net8.0\Practice.exe
+D:\Development\Projects\c-sharp-exercises\Practice\bin\Debug\net8.0\Practice.deps.json
+D:\Development\Projects\c-sharp-exercises\Practice\bin\Debug\net8.0\Practice.runtimeconfig.json
+D:\Development\Projects\c-sharp-exercises\Practice\bin\Debug\net8.0\Practice.dll
+D:\Development\Projects\c-sharp-exercises\Practice\bin\Debug\net8.0\Practice.pdb
+D:\Development\Projects\c-sharp-exercises\Practice\obj\Debug\net8.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Projects\c-sharp-exercises\Practice\obj\Debug\net8.0\Practice.AssemblyInfoInputs.cache
+D:\Development\Projects\c-sharp-exercises\Practice\obj\Debug\net8.0\Practice.AssemblyInfo.cs
+D:\Development\Projects\c-sharp-exercises\Practice\obj\Debug\net8.0\Practice.csproj.CoreCompileInputs.cache
+D:\Development\Projects\c-sharp-exercises\Practice\obj\Debug\net8.0\Practice.sourcelink.json
+D:\Development\Projects\c-sharp-exercises\Practice\obj\Debug\net8.0\Practice.dll
+D:\Development\Projects\c-sharp-exercises\Practice\obj\Debug\net8.0\refint\Practice.dll
+D:\Development\Projects\c-sharp-exercises\Practice\obj\Debug\net8.0\Practice.pdb
+D:\Development\Projects\c-sharp-exercises\Practice\obj\Debug\net8.0\Practice.genruntimeconfig.cache
+D:\Development\Projects\c-sharp-exercises\Practice\obj\Debug\net8.0\ref\Practice.dll

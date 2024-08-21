@@ -131,6 +131,20 @@ namespace Practice
             Console.WriteLine(nums.Max());
         }
 
+        // a program to generate a half pyramid pattern using numbers.
+        static void Pyramid(int R)
+        {
+            for (int i = 0; i < R; i++)
+            {
+                for (int j = R-i; j <= R; j++)
+                {
+                    Console.Write(j);
+                }
+                Console.WriteLine();
+            }
+        }
+
+
         //  a method that checks whether a given string is a palindrome
         // static void Palindrome(string S)
         // {
@@ -138,9 +152,9 @@ namespace Practice
         //     int end = S.Length - 1;
         //     for(int i = 0; i<S.Length; i++)
         //     {
-                
+
         //     }
-           
+
         // }
 
         static void Main(string[] args)
@@ -153,7 +167,8 @@ namespace Practice
             //FizzBuzz();
             // SumOfEvenNums();
             // NumberMultiplication(3);
-            Maximum([4, 7, 2, 39, 15, 5, 10]);
+            //Maximum([4, 7, 2, 39, 15, 5, 10]);
+            Pyramid(5);
         }
     }
 }
